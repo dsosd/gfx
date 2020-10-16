@@ -1,8 +1,8 @@
-#include "main.h"
+#include "cube.h"
 
 namespace tul{
 namespace project{
-namespace gfx{
+namespace rbx{
 
 
 
